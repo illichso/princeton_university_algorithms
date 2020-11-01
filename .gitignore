@@ -1,0 +1,27 @@
+/bin/
+/target/
+.class
+.idea
+.cache
+*.iml
+.classpath
+.project
+.settings/
+
+*_test*.zip
+.DS_Store
+
+# Log file
+*.log
+*.json
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
